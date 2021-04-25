@@ -1,0 +1,171 @@
+body{
+    display: block;
+    margin: 8px;
+}
+.Wrapper{
+    background:url(../projectAssets/fastFood2.jpg); 
+    width:100%; 
+    height:400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.backgroundImage{
+    
+    display: flex;
+    justify-content: center;
+    background-color:rgba(231, 33, 59, 0.4); 
+    width:100%; 
+    height:100%;
+}
+.backgroundImage, span{
+    margin-top: 3%;
+}
+.backgroundImage, span, p{
+    font-size: x-large;
+    font-family:fantasy;
+    color: whitesmoke;
+}
+.container{
+    display: flex;
+    width:100%; 
+    height: 200px;
+      
+} 
+.card1{
+   display: inline-block;
+    display: flex;
+    justify-content: center;
+   
+}
+.con{
+    background-color: rgb(160, 220, 20);
+}
+.Content1{
+    width:320px;
+    background-color:rgba(252, 7, 7, 0.7); 
+    width:320px; 
+
+    /* width:100%; 
+    height:100%; */
+}
+.card2{
+    display: flex;
+    justify-content: center;
+    background-repeat: no-repeat;
+    height:100px;
+}
+
+.Content2{
+    width:320px; 
+
+    background-color:rgba(252, 7, 7, 0.7); 
+    /* width:100%; 
+    height:100%; */
+}
+
+.card3{
+    display: flex;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background:url(../projectAssets/drink1.jpg); 
+    height:100px;
+}
+
+.Content3{
+    width:320px; 
+
+    background-color:rgba(252, 7, 7, 0.7); 
+    /* width:100%; 
+    height:100%; */
+}
+.card4{
+
+    display: flex;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background:url(../projectAssets/drink1.jpg); 
+    height:100px;
+}
+
+.Content4{
+    width:320px; 
+
+    background-color:rgba(252, 7, 7, 0.7); 
+    /* width:100%; 
+    height:100%; */
+}
+/* .card1{
+    background:url(../projectAssets/fastFood2.jpg); 
+    background-repeat: no-repeat;
+    margin-top: 0px;
+    width: 320px;
+}
+.content1{
+    background-color:rgba(231, 33, 59, 0.4); 
+   
+  
+}
+.card2{
+    background-color: yellowgreen;
+    margin-top: 0px;
+    width: 320px;
+
+}
+.card3{
+    background-color: yellowgreen;
+    margin-top: 0px;
+    width: 320px;
+
+}
+.card4{
+    background-color: yellowgreen;
+    margin-top: 0px;
+    width: 320px;
+
+} */
+/* .roundedElement{
+    margin-top: 10%;
+    position: relative;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    border-radius: 50%;
+    background-image: url('../projectAssets/logoBig.png');
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+} */
+/* .backgroundImage{
+    min-height: 500px;
+    width: 100vw;
+    position: relative;
+} */ 
+/* 
+.content2{
+  margin-top: 1%;
+  height: 70px;
+  width: 70px;
+  position: relative;
+  border-radius: 50%;
+  background-color: darkslategrey;
+ justify-content: center;
+}
+.divContent{
+    min-height: 100px;
+    margin: 70px;
+    background-color: darkkhaki;
+    width: 400px;
+    box-shadow: 10px 6px #888888;
+}
+.menuDetails{
+    min-height: 500px;
+    display: flex;
+    justify-content: center;
+}
+.menuItems{
+    height: 100px;
+    width: 100px;
+    margin: 30px;
+    border-radius: 50%;
+    background-color: darkslategrey;
+} */
